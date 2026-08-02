@@ -1,7 +1,6 @@
 #  DataClean CLI
 
-A lightweight, privacy-first command-line tool built with Python to clean, profile, and convert your data files effortlessly. Say goodbye to messy datasets and broken Arabic encodings in Excel!
-
+A lightweight, privacy-first command-line tool built with Python to clean, profile, and convert your data files effortlessly.
 ---
 
 ##  Features
