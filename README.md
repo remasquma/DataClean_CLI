@@ -15,3 +15,7 @@ A lightweight, privacy-first command-line tool built with Python to clean, profi
 ---
 Install the required dependencies:
 - pip install -r requirements.txt
+---
+###  Devloped by
+- **Remas
+- **Ali
